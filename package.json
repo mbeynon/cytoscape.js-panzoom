@@ -30,6 +30,6 @@
   },
   "peerDependencies": {
     "jquery": "^1.4 || ^2.0",
-    "cytoscape": "^2.0"
+    "cytoscape": "2.7.0-unstable"
   }
 }
